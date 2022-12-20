@@ -7,7 +7,7 @@ import { FaceSnapComponent } from './face-snap/face-snap.component';
 @NgModule({
   declarations: [
     AppComponent,
-    FaceSnapComponent
+    FaceSnapComponent,
   ],
   imports: [
     BrowserModule
